@@ -1,0 +1,6 @@
+com\mycompany\ajax\JakartaRestConfiguration.class
+HttpServletRequest.class
+com\ajax\AutoCompleteServlet.class
+com\mycompany\ajax\resources\JakartaEE10Resource.class
+com\ajax\Composer.class
+com\ajax\ComposerData.class
